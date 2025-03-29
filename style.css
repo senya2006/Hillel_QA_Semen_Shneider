@@ -1,0 +1,39 @@
+/* Main page background */
+body {
+    background-color: #87CEFA; /* blue */
+    font-family: Arial, sans-serif;
+    color: #333333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Headings */
+h1, h2 {
+    color: #003366;
+    text-align: center;
+}
+
+/* Picture and description in the table */
+table.profile-table {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+/* Portrait */
+img.profile-pic {
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+    margin-right: 25px;
+}
+
+/* Skills */
+ul.skills-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Languages */
+table.languages-table {
+    margin: 0 auto;
+    margin-top: 20px;
+}
